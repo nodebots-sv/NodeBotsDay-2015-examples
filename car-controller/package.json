@@ -1,0 +1,24 @@
+{
+  "name": "car-controller",
+  "version": "1.0.0",
+  "description": "Controlar carrito con arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeBots",
+    "carro",
+    "motor",
+    "controller",
+    "shield",
+    "arduino",
+    "adafruit"
+  ],
+  "author": "Carlos Carcamo",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.8.85",
+    "keypress": "^0.2.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "remote-control-car",
+  "version": "1.0.0",
+  "description": "Controlar carrito desde internet",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeBots",
+    "arduino",
+    "Node.js",
+    "angular"
+  ],
+  "author": "Carlos Carcamo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "johnny-five": "^0.8.85"
+  }
+}

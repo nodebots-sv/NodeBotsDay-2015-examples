@@ -1,0 +1,25 @@
+{
+  "name": "remote-control-car",
+  "version": "1.0.0",
+  "authors": [
+    "Carlos Carcamo <carloscarcamo.m@gmail.com>"
+  ],
+  "description": "Controlar carrito desde internet",
+  "keywords": [
+    "NodeBots",
+    "arduino",
+    "Node.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.3",
+    "bootstrap": "~3.3.5"
+  }
+}

@@ -1,0 +1,4 @@
+.bower-*/
+*~
+*.log
+node_modules
